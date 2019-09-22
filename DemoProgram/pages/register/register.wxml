@@ -1,0 +1,6 @@
+<!--pages/register/register.wxml-->
+<button open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="onGotUserInfo">点击按钮获取用户信息</button>
+<form bindsubmit="formSubmit">
+学号：<input name="id" type="number"></input>
+<button form-type="submit">Submit</button>
+</form>

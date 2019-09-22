@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/register/register"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#F44336",
+    "navigationBarTitleText": "SchoolServerDemo",
+    "navigationBarTextStyle": "white"
+},
+  "sitemapLocation": "sitemap.json"
+}
